@@ -8,7 +8,7 @@ build-backend = "hatchling.build"
 # is still `polyform` (i.e. `import polyform`). To change the distribution
 # name, edit the single `name` field below.
 name = "polyform-lattice"
-version = "0.1.1"
+version = "0.1.2"
 description = "Structured analysis of proteoform distributions on finite, bounded, k-graded modal lattices."
 readme = "README.md"
 requires-python = ">=3.9"
