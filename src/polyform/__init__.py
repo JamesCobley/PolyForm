@@ -27,7 +27,7 @@ from .weight_mode import run_weight_mode
 from .topology import run_topology
 from . import core
 
-__version__ = "0.1.1"
+__version__ = "0.1.2"
 
 __all__ = [
     "run_support_mode",
